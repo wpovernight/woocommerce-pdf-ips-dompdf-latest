@@ -1,5 +1,11 @@
 {
-    "require": {
-        "dompdf/dompdf": "^0.8.6"
-    }
+	"repositories": [
+		{
+		"type": "git",
+		"url": "https://github.com/dompdf/dompdf.git"
+		}
+	],
+	"require": {
+		"dompdf/dompdf": "dev-develop"
+	}
 }
