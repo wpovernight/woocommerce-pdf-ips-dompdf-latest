@@ -3,7 +3,7 @@
  * Plugin Name: WooCommerce PDF Invoices & Packing Slips latest dompdf
  * Plugin URI: http://www.wpovernight.com
  * Description: Uses the latest release of dompdf instead of the legacy version bundled with the general release
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: Ewout Fernhout
  * Author URI: http://www.wpovernight.com
  * License: GPLv2 or later

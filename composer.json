@@ -6,6 +6,6 @@
 		}
 	],
 	"require": {
-		"dompdf/dompdf": "dev-develop"
+		"dompdf/dompdf": "dev-master"
 	}
 }
